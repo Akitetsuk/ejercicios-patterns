@@ -2,7 +2,7 @@
 
 Establece el atributo _pattern_ adecuado para campo del formulario, según los requisitos
 
-## Nombre
+## Nombre //ok
 
 Carácteres en minúsculas, excepto el primero, que debe ser en mayúsculas
 
@@ -17,14 +17,14 @@ La primera letra de cada apellido, en mayúsculas
 * Valida: Ruiz Diaz, Ruiz
 * No valida: Ruiz diaz
 
-# DNI
+# DNI //ok
 
 Dni del usuario. 8 números y letra en mayúsculas.
 
 * Valida: 40536567U
 * No Valida: 4034511I, 40543456u
 
-# Dinero en efectivo
+# Dinero en efectivo //ok
 
 Indica cuanto dinero en efectivo lleva la persona encima.
 
